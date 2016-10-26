@@ -1,0 +1,30 @@
+{
+  "name": "friendly-fortnight-api",
+  "version": "0.0.0",
+  "description": "API for an app for planning a tasting party",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashleahhill/friendly-fortnight.git"
+  },
+  "engines": {
+    "node": "<7 >=6",
+    "npm": "<4 >=3.8"
+  },
+  "keywords": [
+    "angular2",
+    "typescript",
+    "node",
+    "cordova",
+    "electron"
+  ],
+  "author": "Ashley Hill (https://ashleahhill.github.io/)",
+  "contributors": [
+    "Ashley Hill (https://ashleahhill.github.io/)",
+    "Jocelyn Bentley (https://github.com/jbentley23)"
+  ],
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ashleahhill/friendly-fortnight/issues"
+  },
+  "homepage": "https://github.com/ashleahhill/friendly-fortnight#readme"
+}
