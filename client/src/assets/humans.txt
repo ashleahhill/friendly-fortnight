@@ -1,30 +1,32 @@
 # humanstxt.org
 
 # TEAM
-	Lead Dev: Ashley Hill
-	Web: https://ashleahhill.github.com
-	GitHub: https://github.com/ashleahhill  
-	Twitter: @ashleyhill_me
 
-	Mover and Shaker: Jocelyn Bentley
-	GitHub: https://github.com/jbentley23
-	Twitter: @cerebralfluid
+* Lead Dev: Ashley Hill
+  * Web: https://ashleahhill.github.com
+  * GitHub: https://github.com/ashleahhill
+  * Twitter: @ashleyhill_me
+
+* Mover and Shaker: Jocelyn Bentley
+  * GitHub: https://github.com/jbentley23
+  * Twitter: @cerebralfluid
 
 # THANKS
 
 Full throttle Cross-platform development with Angular 2, Cordova and Electron is the reason Ashley made this app.
 
-    * Christian Weyer -- @christianweyer (Twitter)
-    * Thorsten Hans -- @ThorstenHans (Twitter)
+  * Christian Weyer -- @christianweyer (Twitter)
+  * Thorsten Hans -- @ThorstenHans (Twitter)
 
-Webpack with Angular 2 was made bareable by the work of 
+Webpack with Angular 2 was made bareable by the work of
 
-    * PatrickJS -- @gdi2290 (Twitter)
-    * AngularClass -- @AngularClass (Twitter)
+  * PatrickJS -- @gdi2290 (Twitter)
+  * AngularClass -- @AngularClass (Twitter)
 
 
 # SITE
-	Last update: --
-	Language: English
-	Doctype: HTML5
-	IDE: vscode, Photoshop
+
+* Last update: --
+* Language: English
+* Doctype: HTML5
+* IDE: vscode, Photoshop
